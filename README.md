@@ -66,10 +66,10 @@ This notebook performs a complete **data-driven customer segmentation pipeline**
 ## Installation
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/rfm-basket-analysis.git
-   cd rfm-basket-analysis
-   ```
+ ```bash
+  git clone https://github.com/Ashish202418007/Market-Busket-Analysis.git
+ cd Market-Busket-Analysis
+ ```
 
 2. **Create and activate a virtual environment**
   ```Bash
