@@ -1,0 +1,21 @@
+[project]
+name = "market-basket-analysis"
+version = "0.1.0"
+description = "Market basket analysis of an online reatail dataset clustering and asscotiation mining."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.7",
+    "nbformat>=5.10.4",
+    "numpy>=2.3.4",
+    "openpyxl>=3.1.5",
+    "orange3>=3.39.0",
+    "orange3-associate>=1.3.0",
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+]
